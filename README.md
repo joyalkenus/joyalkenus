@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Joyal Kenus
 
 ## 🙋‍♂️ A Bit About Me
-I'm a passionate robotics engineer who loves to tinker with AI, robotics, and all things in between.
-I've got a knack for turning complex problems into simple solutions, and I'm always up for a good challenge!
+Born in a small town in india and brought up in the United Arab Emirates, I've been interested in science eversince i was a child and always admired the impact technology can have in making people's lives better. 
+I've got a knack for turning complex problems into simple solutions, and helping to make positive change in the world.
 
 ## 🧰 My Toolkit
 - **Languages:** Python, Javascript, C++.
