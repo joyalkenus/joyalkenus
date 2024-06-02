@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Joyal Kenus, your friendly neighborhood mechatronics engineer.
+# 👋 Hey there! I'm Joyal Kenus
 
 ## 🙋‍♂️ A Bit About Me
 I'm a passionate robotics engineer who loves to tinker with AI, robotics, and all things in between.
