@@ -6,8 +6,8 @@ My whole aim in life is to better the lives of people who will benefit the most 
 
 ## 🧰 My Toolkit
 - **Languages:** Python, Javascript, C++.
-- **Tools:**  GPT integrations, Flask,Arduino, MATLAB, Simulink, Tableau, PowerBi.
-- **Skills:** Python for machine learning and computer vision, Data analysis, Robotics simulation.
+- **Tools:**  Flask,Arduino, MATLAB, Simulink, Tableau, PowerBi.
+- **Skills:** Python for machine learning and computer vision,GPT integrations ,Data analysis, Robotics simulation.
 
 ## 🚀 Projects That I'm Proud Of
 - **AI Skill Analyser:** Finalist project for the AI Hackathon London
