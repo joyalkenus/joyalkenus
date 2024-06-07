@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ A Bit About Me
 Born in a small town in india and brought up in the United Arab Emirates, I've been interested in science eversince i was a child and always admired the impact technology can have in making people's lives better. 
-My aim in life is to make lives better for people who will benefit the most from technology such as underdeveloped states and countries thus steering positive change in the world.
+My aim in life is to make lives better for people who will benefit the most from technology such as underdeveloped states and countries around the world thus steering positive change in the world.
 
 ## 🧰 My Toolkit
 - **Languages:** Python, Javascript, C++.
