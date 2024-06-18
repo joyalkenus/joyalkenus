@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hey there! I'm Joyal Kenus
 
 ## Connect with me:
@@ -30,5 +30,4 @@ I'm always excited to take on new projects and collaborate with like-minded indi
 
 ## GitHub Stats
 ![Joyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyalkenus&show_icons=true&theme=radical)
-```
 
