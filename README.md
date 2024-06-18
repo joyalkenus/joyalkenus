@@ -28,6 +28,5 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 ## 🤝 Let's Work Together!
 I'm always excited to take on new projects and collaborate with like-minded individuals. If you've got an idea that involves AI or Robotics, I'm all ears! I promise I won't bite (unless you're a robot, in which case, I might just try to reprogram you! 😉).
 
-## GitHub Stats
-![Joyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyalkenus&show_icons=true&theme=radical)
+
 
