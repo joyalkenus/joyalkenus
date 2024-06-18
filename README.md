@@ -4,7 +4,7 @@
 ## Connect with me:
 [![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://x.com/JKenus81167?t=1KyQrznOvvyhsCyjO4OiSA&s=08)
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/joyal-kenus-7aa6b21b9)
-[![Gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto: joyalkenus2711@gmail.com@gmail.com)
+[![Gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](joyalkenus2711@gmail.com@gmail.com)
 
 ## A Bit About Me
 Born in a small town in India and brought up in the United Arab Emirates, I've been interested in science ever since I was a child and always admired the impact technology can have in making people's lives better. My whole aim in life is to better the lives of people who will benefit the most from technology, thus steering positive change in the world.
