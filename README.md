@@ -42,7 +42,7 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 
 </div>
 
-## 🏆 Achievements Unlocked
+## 🏆 Achievements 
 
 <div align="center">
 <table>
