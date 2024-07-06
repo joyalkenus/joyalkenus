@@ -41,6 +41,7 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 [![Warehouse Management System](https://img.shields.io/badge/🏭%20Warehouse%20Management-4%20DOF%20Robotic%20Arm-6200EA?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/joyalkenus)
 
 </div>
+
 ## 🏆 Achievements Unlocked
 
 <div align="center">
@@ -83,6 +84,7 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 - **High School Academic Excellence**: Achieved a flawless 10-point CGPA, setting a strong foundation for future academic and professional pursuits.
 
 </details>
+
 ## 🤝 Let's Work Together!
 
 I'm always excited to take on new projects and collaborate with like-minded individuals. If you've got an idea that involves AI or Robotics, I'm all ears! I promise I won't bite (unless you're a robot, in which case, I might just try to reprogram you! 😉).
