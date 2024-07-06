@@ -31,14 +31,48 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI"/>
 </p>
 
-## 🚀 Projects That I'm Proud Of
+## 🏆 Achievements Unlocked
 
-| Project | Description | Tech Stack |
-|:-------:|:------------|:----------:|
-| 🧠 **AI Skill Analyser** | Finalist project at AI Hackathon London. An AI-powered tool for analyzing and mapping professional skills. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 🦽 **Semi-Autonomous Wheelchair** | Master's Project: A wheelchair system controlled by facial orientation, enhancing mobility for users with limited motor functions. | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| 🦾 **Bionic Hand** | Prototype of a bionic arm designed to enable handicapped individuals to ride motorbikes, promoting inclusivity in transportation. | ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF3333?style=for-the-badge&logo=dassaultsystemes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
-| 🏭 **Warehouse Management System** | Optimized storage handling system using a 4 DOF robotic arm, increasing efficiency in warehouse operations. | ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-AI%20HACKATHON%20FINALIST-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="AI Hackathon Finalist"/><br />
+      <sub><b>🥇 Encode Club, London</b></sub><br />
+      <sup>Innovative AI Solutions</sup>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-SOLANA%20BOUNTY%20WINNER-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Bounty Winner"/><br />
+      <sub><b>🏆 3rd Prize</b></sub><br />
+      <sup>Blockchain Development</sup>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-MASTER'S%20DEGREE-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Master's Degree"/><br />
+      <sub><b>🎓 MSc Mechatronics</b></sub><br />
+      <sup>4.0 GPA | Distinction</sup>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-HIGH%20SCHOOL%20CGPA-1E88E5?style=for-the-badge&logo=book&logoColor=white" alt="High School CGPA"/><br />
+      <sub><b>📚 Perfect Score</b></sub><br />
+      <sup>10 point CGPA</sup>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<details>
+<summary>🔍 Click to view achievement details</summary>
+
+- **AI Hackathon Finalist**: Competed against top talent, showcasing innovative AI solutions at the prestigious Encode Club hackathon in London.
+- **Solana Bounty Winner**: Demonstrated exceptional blockchain development skills, securing 3rd prize in a competitive Solana bounty challenge.
+- **Master's Degree with Distinction**: Graduated with a perfect 4.0 GPA in MSc Mechatronics and Intelligent Machines, exemplifying academic excellence.
+- **High School Academic Excellence**: Achieved a flawless 10-point CGPA, setting a strong foundation for future academic and professional pursuits.
+
+</details>
 
 ## 🏆 Achievements Unlocked
 
