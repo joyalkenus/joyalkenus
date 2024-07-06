@@ -31,6 +31,16 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI"/>
 </p>
 
+## 🚀 Projects That I'm Proud Of
+
+<div align="center">
+
+[![AI Skill Analyser](https://img.shields.io/badge/🧠%20AI%20Skill%20Analyser-Finalist%20at%20AI%20Hackathon%20London-00C853?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/joyalkenus)
+[![Semi-Autonomous Wheelchair](https://img.shields.io/badge/🦽%20Semi--Autonomous%20Wheelchair-Facial%20Control%20System-1565C0?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/joyalkenus)
+[![Bionic Hand](https://img.shields.io/badge/🦾%20Bionic%20Hand-For%20Motorbike%20Riders-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/joyalkenus)
+[![Warehouse Management System](https://img.shields.io/badge/🏭%20Warehouse%20Management-4%20DOF%20Robotic%20Arm-6200EA?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/joyalkenus)
+
+</div>
 ## 🏆 Achievements Unlocked
 
 <div align="center">
@@ -43,7 +53,7 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
       <sup>Innovative AI Solutions</sup>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-SOLANA%20BOUNTY%20WINNER-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Bounty Winner"/><br />
+      <img src="https://img.shields.io/badge/-SOLANA%20BOUNTY%20WINNER-FFD700?style=for-the-badge&logo=solana&logoColor=black" alt="Solana Bounty Winner"/><br />
       <sub><b>🏆 3rd Prize</b></sub><br />
       <sup>Blockchain Development</sup>
     </td>
@@ -73,15 +83,6 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 - **High School Academic Excellence**: Achieved a flawless 10-point CGPA, setting a strong foundation for future academic and professional pursuits.
 
 </details>
-
-## 🏆 Achievements Unlocked
-
-| Achievement | Details | Recognition |
-|:-----------:|:--------|:-----------:|
-| 🥇 **AI Hackathon Finalist** | Competed in the Encode Club AI Hackathon in London, showcasing innovative AI solutions. | ![Finalist Badge](https://img.shields.io/badge/Finalist-London-FFD700?style=for-the-badge) |
-| 🏆 **Solana Bounty Winner** | Secured 3rd prize in the Solana bounty competition, demonstrating proficiency in blockchain development. | ![3rd Prize](https://img.shields.io/badge/3rd%20Prize-Solana-14F195?style=for-the-badge&logo=solana&logoColor=white) |
-| 🎓 **Master's Degree** | Completed MSc in Mechatronics and Intelligent Machines with distinction, showcasing academic excellence. | ![4.0 GPA](https://img.shields.io/badge/4.0%20GPA-Distinction-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white) |
-| 📚 **High School CGPA** | Achieved perfect CGPA in high school, laying a strong foundation for future academic pursuits. | ![10 CGPA](https://img.shields.io/badge/10%20point-CGPA-1E88E5?style=for-the-badge&logo=book&logoColor=white) |
 ## 🤝 Let's Work Together!
 
 I'm always excited to take on new projects and collaborate with like-minded individuals. If you've got an idea that involves AI or Robotics, I'm all ears! I promise I won't bite (unless you're a robot, in which case, I might just try to reprogram you! 😉).
