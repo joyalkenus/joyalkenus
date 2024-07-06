@@ -65,6 +65,6 @@ I'm always excited to take on new projects and collaborate with like-minded indi
 
 <div align="center">
 
-![Speed Coding GIF]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Mm1uZnNnaTk0dW56NzZmNTU3OW0wc2o2azRvNG83b3A1NGE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif))
+![Speed Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Mm1uZnNnaTk0dW56NzZmNTU3OW0wc2o2azRvNG83b3A1NGE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif))
 
 </div>
