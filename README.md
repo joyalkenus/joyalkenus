@@ -4,13 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=4AF626&background=FFFFFF00&center=true&vCenter=true&width=535&lines=Robotics+Developer;AI+Integration+Specialist;Builder+2.0)
 
-</div>
 
-<div align="center">
-
-![Speed Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Mm1uZnNnaTk0dW56NzZmNTU3OW0wc2o2azRvNG83b3A1NGE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)
-
-</div>
 
 ## 🌐 Connect with me:
 <p align="center">
@@ -57,6 +51,13 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 I'm always excited to take on new projects and collaborate with like-minded individuals. If you've got an idea that involves AI or Robotics, I'm all ears! I promise I won't bite (unless you're a robot, in which case, I might just try to reprogram you! 😉).
 
 ---
+</div>
+
+<div align="center">
+
+![Speed Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Mm1uZnNnaTk0dW56NzZmNTU3OW0wc2o2azRvNG83b3A1NGE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)
+
+</div>
 
 
 
