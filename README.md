@@ -10,9 +10,17 @@
 Born in a small town in India and brought up in the United Arab Emirates, I've been interested in science ever since I was a child and always admired the impact technology can have in making people's lives better. My whole aim in life is to better the lives of people who will benefit the most from technology, thus steering positive change in the world.
 
 ## 🧰 My Toolkit
-- **Languages:** Python, Javascript, C++.
-- **Tools:** Flask, Arduino, MATLAB, Simulink, Tableau, PowerBi.
-- **Skills:** Python for machine learning and computer vision, GPT integrations, Data analysis, Robotics simulation.
+╔═══════════════╦═══════════════╦═══════════════╗
+║   Languages   ║    Tools      ║    Skills     ║
+╠═══════════════╬═══════════════╬═══════════════╣
+║ • Python      ║ • Flask       ║ • ML & CV     ║
+║ • JavaScript  ║ • Arduino     ║ • GPT         ║
+║ • C++         ║ • MATLAB      ║   integrations║
+║               ║ • Simulink    ║ • Data        ║
+║               ║ • Tableau     ║   analysis    ║
+║               ║ • PowerBI     ║ • Robotics    ║
+║               ║               ║   simulation  ║
+╚═══════════════╩═══════════════╩═══════════════╝
 
 ## 🚀 Projects That I'm Proud Of
 - **AI Skill Analyser:** Finalist project for the AI Hackathon London.
