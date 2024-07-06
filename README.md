@@ -60,12 +60,11 @@ I'm always excited to take on new projects and collaborate with like-minded indi
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyalkenus&theme=dark&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyalkenus&layout=compact&theme=vision-friendly-dark)
 
 </div>
 
 <div align="center">
 
-![Speed Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Speed Coding GIF]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Mm1uZnNnaTk0dW56NzZmNTU3OW0wc2o2azRvNG83b3A1NGE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif))
 
 </div>
