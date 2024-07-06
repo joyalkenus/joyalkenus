@@ -45,29 +45,28 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 ## 🏆 Achievements Unlocked
 
 <div align="center">
-
 <table>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <img src="https://img.shields.io/badge/-AI%20HACKATHON%20FINALIST-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="AI Hackathon Finalist"/><br />
-      <sub><b>🥇 Encode Club, London</b></sub><br />
-      <sup>Innovative AI Solutions</sup>
+      <b>🥇 Encode Club, London</b><br />
+      <sub>Innovative AI Solutions Showcase</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/-MASTER'S%20DEGREE-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Master's Degree"/><br />
-      <sub><b>🎓 MSc Mechatronics</b></sub><br />
-      <sup>4.0 GPA | Distinction</sup>
+      <b>🎓 MSc Mechatronics</b><br />
+      <sub>4.0 GPA | Distinction</sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-HIGH%20SCHOOL%20CGPA-1E88E5?style=for-the-badge&logo=book&logoColor=white" alt="High School CGPA"/><br />
-      <sub><b>📚 Perfect Score</b></sub><br />
-      <sup>10 point CGPA</sup>
+      <b>📚 Academic Excellence</b><br />
+      <sub>10 point CGPA</sub>
     </td>
   </tr>
 </table>
-
+</div>
 </div>
 
 <details>
