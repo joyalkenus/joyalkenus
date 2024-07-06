@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="center">
+
+![Speed Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Mm1uZnNnaTk0dW56NzZmNTU3OW0wc2o2azRvNG83b3A1NGE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)
+
+</div>
+
 ## 🌐 Connect with me:
 <p align="center">
   <a href="https://x.com/JKenus81167?t=1KyQrznOvvyhsCyjO4OiSA&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
@@ -52,19 +58,5 @@ I'm always excited to take on new projects and collaborate with like-minded indi
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyalkenus&show_icons=true&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyalkenus&theme=dark&hide_border=true)
-  
-
-</div>
-
-<div align="center">
-
-![Speed Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Mm1uZnNnaTk0dW56NzZmNTU3OW0wc2o2azRvNG83b3A1NGE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)
-
-</div>
