@@ -53,11 +53,6 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
       <sub><b>🥇 Encode Club, London</b></sub><br />
       <sup>Innovative AI Solutions</sup>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-SOLANA%20BOUNTY%20WINNER-FFD700?style=for-the-badge&logo=solana&logoColor=black" alt="Solana Bounty Winner"/><br />
-      <sub><b>🏆 3rd Prize</b></sub><br />
-      <sup>Blockchain Development</sup>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -79,7 +74,6 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 <summary>🔍 Click to view achievement details</summary>
 
 - **AI Hackathon Finalist**: Competed against top talent, showcasing innovative AI solutions at the prestigious Encode Club hackathon in London.
-- **Solana Bounty Winner**: Demonstrated exceptional blockchain development skills, securing 3rd prize in a competitive Solana bounty challenge.
 - **Master's Degree with Distinction**: Graduated with a perfect 4.0 GPA in MSc Mechatronics and Intelligent Machines, exemplifying academic excellence.
 - **High School Academic Excellence**: Achieved a flawless 10-point CGPA, setting a strong foundation for future academic and professional pursuits.
 
