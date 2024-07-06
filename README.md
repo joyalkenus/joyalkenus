@@ -31,21 +31,27 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI"/>
 </p>
 
-**Skills:** Python for machine learning and computer vision, GPT integrations, Data analysis, Robotics simulation.
-
 ## 🚀 Projects That I'm Proud Of
 
-- **AI Skill Analyser:** Finalist project for the AI Hackathon London.
-- **Semi-Autonomous Wheelchair:** Facial orientation controlled wheelchair driving system (Master's Project).
-- **Bionic Hand:** Prototype Development of a Bionic Arm for handicapped individuals to ride motorbikes.
-- **Warehouse Management System:** Optimized storage handling using 4 DOF robotic arms.
+<div align="center">
+
+[![AI Skill Analyser](https://img.shields.io/badge/🧠%20AI%20Skill%20Analyser-Finalist%20at%20AI%20Hackathon%20London-00C853?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/joyalkenus)
+[![Semi-Autonomous Wheelchair](https://img.shields.io/badge/🦽%20Semi--Autonomous%20Wheelchair-Facial%20Control%20System-1565C0?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/joyalkenus)
+[![Bionic Hand](https://img.shields.io/badge/🦾%20Bionic%20Hand-For%20Motorbike%20Riders-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/joyalkenus)
+[![Warehouse Management System](https://img.shields.io/badge/🏭%20Warehouse%20Management-4%20DOF%20Robotic%20Arm-6200EA?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/joyalkenus)
+
+</div>
 
 ## 🏆 Achievements Unlocked
 
-- 🥉 Finalist in AI Hackathon (Encode Club) and Solana bounty 3rd prize winner, London, UK.
-- 🎓 4.0 GPA in Master's Degree: MSc Mechatronics and Intelligent Machines, graduated with distinction.
-- 📈 10 point CGPA in High School.
+<div align="center">
 
+![AI Hackathon Finalist](https://img.shields.io/badge/🥇%20AI%20Hackathon%20Finalist-Encode%20Club%20%7C%20London-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black)
+![Solana Bounty Winner](https://img.shields.io/badge/🏆%20Solana%20Bounty-3rd%20Prize%20Winner-14F195?style=for-the-badge&logo=solana&logoColor=white)
+![Master's Degree](https://img.shields.io/badge/🎓%20MSc%20Mechatronics-4.0%20GPA%20%7C%20Distinction-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![High School CGPA](https://img.shields.io/badge/📚%20High%20School-10%20point%20CGPA-1E88E5?style=for-the-badge&logo=book&logoColor=white)
+
+</div>
 ## 🤝 Let's Work Together!
 
 I'm always excited to take on new projects and collaborate with like-minded individuals. If you've got an idea that involves AI or Robotics, I'm all ears! I promise I won't bite (unless you're a robot, in which case, I might just try to reprogram you! 😉).
