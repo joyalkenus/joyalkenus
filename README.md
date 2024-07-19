@@ -9,7 +9,7 @@
 ## 🌐 Connect with me:
 <p align="center">
   <a href="https://x.com/JKenus81167?t=1KyQrznOvvyhsCyjO4OiSA&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/joyal-kenus-7aa6b1b9"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/joyal-kenus-7aa6b21b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:joyalkenus2711@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
