@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=4AF626&background=FFFFFF00&center=true&vCenter=true&width=535&lines=Builder+2.0;AI+Integration+Specialist;Robotics+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=4AF626&background=FFFFFF00&center=true&vCenter=true&width=535&lines=Builder+2.0;AI+Integration+Specialist;Robotics+Engineer)
 
 
 
