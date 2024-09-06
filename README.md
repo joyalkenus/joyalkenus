@@ -27,8 +27,8 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Ros"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="React"/>
 </p>
 
 ## 🚀 Projects That I'm Proud Of
