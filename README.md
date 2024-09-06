@@ -35,10 +35,40 @@ Born in a small town in India and brought up in the United Arab Emirates, I've b
 
 <div align="center">
 
-[![AI Skill Analyser](https://img.shields.io/badge/🧠%20AI%20Skill%20Analyser-Finalist%20at%20AI%20Hackathon%20London-00C853?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/joyalkenus)
-[![Semi-Autonomous Wheelchair](https://img.shields.io/badge/🦽%20Semi--Autonomous%20Wheelchair-Facial%20Control%20System-1565C0?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/joyalkenus)
-[![Bionic Hand](https://img.shields.io/badge/🦾%20Bionic%20Hand-For%20Motorbike%20Riders-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/joyalkenus)
-[![Warehouse Management System](https://img.shields.io/badge/🏭%20Warehouse%20Management-4%20DOF%20Robotic%20Arm-6200EA?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/joyalkenus)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/joyalkenus" style="text-decoration: none;">
+        <div style="width: 250px; border: 2px solid #00C853; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
+          <img src="https://img.shields.io/badge/🧠%20AI%20Skill%20Analyser-Finalist%20at%20AI%20Hackathon%20London-00C853?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Skill Analyser" width="100%">
+        </div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joyalkenus" style="text-decoration: none;">
+        <div style="width: 250px; border: 2px solid #1565C0; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
+          <img src="https://img.shields.io/badge/🦽%20Semi--Autonomous%20Wheelchair-Facial%20Control%20System-1565C0?style=for-the-badge&logo=arduino&logoColor=white" alt="Semi-Autonomous Wheelchair" width="100%">
+        </div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/joyalkenus" style="text-decoration: none;">
+        <div style="width: 250px; border: 2px solid #FF6F00; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
+          <img src="https://img.shields.io/badge/🦾%20Bionic%20Hand-For%20Motorbike%20Riders-FF6F00?style=for-the-badge&logo=arduino&logoColor=white" alt="Bionic Hand" width="100%">
+        </div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joyalkenus" style="text-decoration: none;">
+        <div style="width: 250px; border: 2px solid #6200EA; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
+          <img src="https://img.shields.io/badge/🏭%20Warehouse%20Management-4%20DOF%20Robotic%20Arm-6200EA?style=for-the-badge&logo=probot&logoColor=white" alt="Warehouse Management System" width="100%">
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
