@@ -6,13 +6,6 @@
 
 
 
-## 🌐 Connect with me:
-<p align="center">
-  <a href="https://x.com/JKenus81167?t=1KyQrznOvvyhsCyjO4OiSA&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/joyal-kenus-7aa6b21b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:joyalkenus2711@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/></a>
-</p>
-
 ## 🌟 A Bit About Me
 
 Born in a small town in India and brought up in the United Arab Emirates later getting a master's degree in Mechatronics and intelligent machines, I've been fascinated by Technology ever since childhood. I admire the transformative power of technology in enhancing people's lives. My life's mission is to leverage technology to improve the lives of those who need it most, driving positive change in the world.
@@ -105,7 +98,12 @@ Born in a small town in India and brought up in the United Arab Emirates later g
 - **High School Academic Excellence**: Achieved a flawless 10-point CGPA, setting a strong foundation for future academic and professional pursuits.
 
 </details>
-
+## 🌐 Connect with me:
+<p align="center">
+  <a href="https://x.com/JKenus81167?t=1KyQrznOvvyhsCyjO4OiSA&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/joyal-kenus-7aa6b21b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:joyalkenus2711@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/></a>
+</p>
 ## 🤝 Let's Work Together!
 
 I'm always excited to take on new projects and collaborate with like-minded individuals. If you've got an idea that involves AI or Robotics, I'm all ears! I promise I won't bite (unless you're a robot, in which case, I might just try to reprogram you! 😉).
