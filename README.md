@@ -98,6 +98,8 @@ Born in a small town in India and brought up in the United Arab Emirates later g
 - **High School Academic Excellence**: Achieved a flawless 10-point CGPA, setting a strong foundation for future academic and professional pursuits.
 
 </details>
+
+
 ## 🌐 Connect with me:
 <p align="center">
   <a href="https://x.com/JKenus81167?t=1KyQrznOvvyhsCyjO4OiSA&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
