@@ -106,6 +106,8 @@ Born in a small town in India and brought up in the United Arab Emirates later g
   <a href="https://www.linkedin.com/in/joyal-kenus-7aa6b21b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:joyalkenus2711@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/></a>
 </p>
+
+
 ## 🤝 Let's Work Together!
 
 I'm always excited to take on new projects and collaborate with like-minded individuals. If you've got an idea that involves AI or Robotics, I'm all ears! I promise I won't bite (unless you're a robot, in which case, I might just try to reprogram you! 😉).
