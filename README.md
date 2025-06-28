@@ -70,7 +70,7 @@ Born in a small town in India and brought up in the United Arab Emirates later g
   <tr>
     <td align="center" colspan="2">
       <img src="https://img.shields.io/badge/-AI%20HACKATHON%20FINALIST-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="AI Hackathon Finalist"/><br />
-      <b>🥇 Encode Club, London</b><br />
+      <b>🥇 Encode, London</b><br />
       <sub>Innovative AI Solutions Showcase</sub>
     </td>
   </tr>
