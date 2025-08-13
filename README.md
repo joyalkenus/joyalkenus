@@ -31,7 +31,7 @@ Born in a small town in India and brought up in the United Arab Emirates later g
     <td align="center">
       <a href="https://github.com/joyalkenus" style="text-decoration: none;">
         <div style="width: 250px; border: 2px solid #00C853; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-          <img src="https://img.shields.io/badge/🧠%20AI%20Skill%20Analyser-Finalist%20at%20AI%20Hackathon%20London-00C853?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Skill Analyser" width="100%">
+          <img src="https://img.shields.io/badge/🧠%20AI%20Skill%20Analyser-Winner%20of%20Solana%20Bounty%20at%20AI%20Hackathon%20London-00C853?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Skill Analyser" width="100%">
         </div>
       </a>
     </td>
