@@ -8,7 +8,7 @@
 
 ## 🌟 A Bit About Me
 
-Born in a small town in India and brought up in the United Arab Emirates later getting a master's degree in Mechatronics and intelligent machines, I've been fascinated by Technology ever since childhood. I admire the transformative power of technology in enhancing people's lives. My life's mission is to leverage technology to improve the lives of those who need it most, driving positive change in the world.
+Born in a small town in India and brought up in the United Arab Emirates later getting a master's degree in Mechatronics and intelligent machines, I've been fascinated by Technology ever since childhood. I admire the transformative power of technology in enhancing people's lives. My life's mission is to leverage technology to improve the lives of those who need it the most, thus driving positive change in the world.
 
 ## 🧰 My Toolkit
 
