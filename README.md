@@ -69,7 +69,7 @@ Born in a small town in India and brought up in the United Arab Emirates later g
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/-AI%20HACKATHON%20Solana-Bounty-Winner-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="AI Hackathon Finalist"/><br />
+      <img src="https://img.shields.io/badge/-AI%20HACKATHON%20Solana%20Bounty%20Winner-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="AI Hackathon Finalist"/><br />
       <b>🥇 Encode, London</b><br />
       <sub>Innovative AI Solutions Showcase</sub>
     </td>
